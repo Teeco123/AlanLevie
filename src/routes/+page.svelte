@@ -1,10 +1,46 @@
-<img
-	src="https://cdn.discordapp.com/attachments/1122631498424647773/1160336728649900103/IMG_6148.png?ex=65344aca&is=6521d5ca&hm=5088d615063212b16de4a09666473f19ea6c06bf7c98a93ef367eb2cd389be2f&"
-	alt="guwno"
-/>
+<body>
+	<div class="header">
+		<a href="https://www.google.com">Instagram</a>
+		<a href="/">Youtube</a>
+		<a href="/">Spotify</a>
+		<a href="/">Apple Music</a>
+	</div>
+
+	<div class="hah">
+		<img
+			src="https://cdn.discordapp.com/attachments/1122631498424647773/1160337071857209524/IMG_5639.jpg?ex=65344b1b&is=6521d61b&hm=4adc496bdb8ab71b21e259cf27147e44f71e4372a041557c10edb1a9a7e96bd5&"
+			alt="dasd"
+		/>
+	</div>
+</body>
 
 <style>
+	@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@500&display=swap');
+	body {
+		margin: 0;
+		background-color: black;
+		color: white;
+		font-family: 'AR One Sans', sans-serif;
+	}
+
+	.header {
+		display: flex;
+		justify-content: space-evenly;
+		margin: 50px 50px 0px 50px;
+	}
+
+	a {
+		text-decoration: none;
+		color: white;
+	}
+	.hah {
+		margin-top: 100px;
+		display: flex;
+		justify-content: center;
+	}
+
 	img {
-		width: 500px;
+		width: 80%;
+		height: 500px;
 	}
 </style>
