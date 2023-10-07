@@ -146,3 +146,9 @@
 	src="https://cdn.discordapp.com/attachments/1122631498424647773/1160337535688511528/IMG_4316.jpg?ex=65344b8a&is=6521d68a&hm=1ce5f733a6fcffacb13895abc01734e5d3a4558019cd7c21f660b80a92d09828&"
 	alt="guwno"
 />
+
+<style>
+	img {
+		width: 500px;
+	}
+</style>
